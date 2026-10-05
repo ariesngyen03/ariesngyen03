@@ -4,23 +4,14 @@ Hey there! I'm Hieu Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 
 ## <picture><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdkdmJpN3ludmE0cTRsaWV1OTk5eHF1OTM3Mmd4YjE2MjNpNmc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tgxr8pn069Sf7mgv0e/giphy.gif" width = 30px></picture> About Me
 
-
-🎓 Final-year IoT & Applied AI Student  
-
-🔧 Embedded Systems • 📡 Technology Enthusiast • 💻 Computer & Systems 
-
----
-### 🌱 Current Focus
-<img align="right" width="220" height="200" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a"/>
 Building strong fundamentals in embedded systems, systems thinking, and improving myself.
 
-**Currently focusing on core skills:**
 
-- Writing efficient C/C++ for microcontrollers
+Technologies:
+- Embedded Systems 
+- Technology Enthusiast 
+- Operating System
 
-- Understanding hardware–software interaction
-
-- Learning system architecture and debugging
 
 
 ---
